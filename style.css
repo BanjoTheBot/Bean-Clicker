@@ -1,0 +1,9 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url('images/beans.jpg');
+}
+p{
+  background: rgba(255, 100, 100, .7);
+}
+}
