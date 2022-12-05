@@ -1,18 +1,4 @@
 html {
   height: 100%;
   width: 100%;
-  background-image: url('images/web-design/beans.jpg');
-  background-position: center;
-  background-size: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-button{
-  height:50px;
-  width:100px
-  
-}
-p{
-  background: rgba(255, 100, 100, .7);
-}
 }
