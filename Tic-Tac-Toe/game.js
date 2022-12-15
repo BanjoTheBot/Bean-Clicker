@@ -1,3 +1,4 @@
+// I don't know how to code js help
 window.addEventListener('DOMContentLoaded', () => {
 });
 const tiles = Array.from(document.querySelectorAll('.tile'));
